@@ -1,0 +1,7 @@
+/venv
+/fine-tuned-model
+/fine-tuned-model-phi3
+/fine-tuned-model-token-classification
+/results
+/results_phi3
+/results_token_classification

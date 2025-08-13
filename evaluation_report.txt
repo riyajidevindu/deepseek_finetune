@@ -1,0 +1,22 @@
+
+--- Evaluation Report ---
+Exact Match Ratio: 0.0918
+
+--- Anonymization Detection ---
+Accuracy: 0.6685
+Precision: 0.6156
+Recall: 0.9793
+F1-Score: 0.7560
+
+--- PII Identifier Detection ---
+Accuracy: 0.2551
+Precision: 0.5183
+Recall: 0.3343
+F1-Score: 0.4065
+
+--- Text Generation Metrics (on 'anonymized' field) ---
+Average ROUGE-1: 0.3202
+Average ROUGE-2: 0.2219
+Average ROUGE-L: 0.3009
+Average BLEU Score: 0.1828
+-------------------------

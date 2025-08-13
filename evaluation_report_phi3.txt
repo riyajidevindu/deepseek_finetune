@@ -1,0 +1,22 @@
+
+--- Evaluation Report for microsoft/Phi-3-mini-4k-instruct ---
+Exact Match Ratio: 0.2481
+
+--- Anonymization Detection ---
+Accuracy: 0.9237
+Precision: 0.8824
+Recall: 0.9848
+F1-Score: 0.9308
+
+--- PII Identifier Detection ---
+Accuracy: 0.3224
+Precision: 0.5638
+Recall: 0.4296
+F1-Score: 0.4876
+
+--- Text Generation Metrics (on 'anonymized' field) ---
+Average ROUGE-1: 0.5979
+Average ROUGE-2: 0.5003
+Average ROUGE-L: 0.5799
+Average BLEU Score: 0.4590
+------------------------------------

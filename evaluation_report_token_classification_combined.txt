@@ -1,0 +1,231 @@
+
+--- Token Classification Evaluation Report ---
+                            precision    recall  f1-score   support
+
+           B-Academic Year       0.00      0.00      0.00         1
+              B-Account ID       0.00      0.00      0.00         1
+          B-Account Number       0.00      0.00      0.00         6
+                 B-Address       0.79      0.81      0.80        54
+             B-Affiliation       0.00      0.00      0.00         2
+                     B-Age       0.67      1.00      0.80        24
+                  B-Amount       0.00      0.00      0.00         3
+             B-Animal Type       0.00      0.00      0.00         1
+             B-Association       0.00      0.00      0.00         1
+                 B-Balance       0.00      0.00      0.00         1
+            B-Bank Account       0.00      0.00      0.00         1
+               B-Bank Code       0.00      0.00      0.00         1
+         B-Bank Identifier       0.00      0.00      0.00         1
+              B-Birth Date       0.00      0.00      0.00         3
+             B-Birth Place       0.00      0.00      0.00         1
+                    B-City       0.00      0.00      0.00         4
+                    B-Club       0.00      0.00      0.00         1
+                 B-Company       0.00      0.00      0.00        24
+            B-Compensation       0.00      0.00      0.00         4
+               B-Condition       0.00      0.00      0.00         4
+            B-Contact Data       0.00      0.00      0.00         2
+     B-Contact Information       0.00      0.00      0.00         1
+            B-Contact Name       0.00      0.00      0.00         2
+           B-Contact Phone       0.00      0.00      0.00         1
+                 B-Country       0.00      0.00      0.00         1
+             B-Credit Card       0.00      0.00      0.00         1
+        B-Customer Profile       0.00      0.00      0.00         1
+                    B-Date       0.57      0.21      0.31       156
+              B-Date Range       0.00      0.00      0.00         1
+           B-Date of Birth       1.00      0.22      0.36         9
+                   B-Dates       0.00      0.00      0.00         1
+                  B-Degree       0.00      0.00      0.00         2
+              B-Department       0.00      0.00      0.00         4
+               B-Dependent       0.00      0.00      0.00         1
+                  B-Doctor       0.00      0.00      0.00         2
+         B-Document Number       0.00      0.00      0.00         1
+                B-Duration       0.00      0.00      0.00         4
+                   B-Email       0.81      0.97      0.88        35
+           B-Email Address       0.00      0.00      0.00         2
+        B-Employment Dates       0.00      0.00      0.00         1
+               B-Ethnicity       0.00      0.00      0.00         7
+      B-Family Information       0.00      0.00      0.00         1
+               B-Financial       0.00      0.00      0.00         1
+       B-Financial Account       0.00      0.00      0.00         8
+B-Financial Account Number       0.00      0.00      0.00         1
+        B-Financial Amount       0.00      0.00      0.00         2
+   B-Financial Information       0.00      0.00      0.00         1
+   B-Financial Transaction       0.00      0.00      0.00         1
+                  B-Gender       1.00      0.40      0.57         5
+     B-Genetic Information       0.00      0.00      0.00        46
+              B-Group Name       0.00      0.00      0.00         1
+                  B-Health       0.00      0.00      0.00         2
+        B-Health Condition       0.00      0.00      0.00        10
+             B-Health Data       0.00      0.00      0.00         2
+      B-Health Information       0.00      0.00      0.00         7
+           B-Health Status       0.00      0.00      0.00         2
+                      B-ID       0.70      0.95      0.81        80
+               B-ID Number       0.00      0.00      0.00         1
+              B-IP Address       0.00      0.00      0.00         1
+                  B-Income       0.00      0.00      0.00         7
+                  B-Injury       0.00      0.00      0.00         5
+             B-Institution       0.57      0.24      0.33        17
+  B-Institution Identifier       0.00      0.00      0.00         1
+                     B-Job       0.00      0.00      0.00         1
+               B-Job Title       0.00      0.00      0.00         7
+               B-Join Year       0.00      0.00      0.00         1
+                B-Landmark       0.00      0.00      0.00         1
+                B-Language       0.00      0.00      0.00         1
+                B-Location       0.55      0.58      0.56        71
+          B-Marital Status       0.00      0.00      0.00         2
+       B-Medical Condition       0.00      0.00      0.00         5
+     B-Medical Information       0.00      0.00      0.00         2
+       B-Medical Procedure       0.00      0.00      0.00         1
+                B-Merchant       0.00      0.00      0.00         1
+          B-Monetary Value       0.00      0.00      0.00       130
+                    B-Name       0.73      0.50      0.60       205
+              B-Occupation       0.00      0.00      0.00         3
+            B-Organization       0.20      0.08      0.12       133
+       B-Organization Name       0.00      0.00      0.00         7
+   B-Organization/Location       0.00      0.00      0.00         1
+     B-Organizational Unit       0.00      0.00      0.00         1
+          B-Payment Method       0.00      0.00      0.00         1
+                  B-Person       0.00      0.00      0.00         1
+             B-Person Name       0.00      0.00      0.00         1
+                B-Pharmacy       0.00      0.00      0.00         1
+                   B-Phone       0.65      0.31      0.42       107
+            B-Phone Number       0.00      0.00      0.00        11
+                  B-Policy       0.00      0.00      0.00         1
+                B-Position       0.00      0.00      0.00         3
+                B-Province       0.00      0.00      0.00         1
+            B-Relationship       0.00      0.00      0.00         1
+                    B-Role       0.45      0.75      0.57        20
+                  B-Salary       0.00      0.00      0.00        10
+                   B-Skill       0.00      0.00      0.00         1
+             B-SocialMedia       0.00      0.00      0.00         1
+                   B-State       0.00      0.00      0.00         1
+                  B-Tax ID       0.00      0.00      0.00         1
+                    B-Time       0.00      0.00      0.00         1
+             B-Time Period       0.00      0.00      0.00         1
+                   B-Topic       0.00      0.00      0.00         1
+               B-Treatment       0.00      0.00      0.00         1
+                    B-Type       0.00      0.00      0.00         1
+              B-University       0.00      0.00      0.00         7
+                B-Username       0.00      0.00      0.00         2
+                 B-Website       0.00      0.00      0.00         1
+                    B-Year       0.00      0.00      0.00         2
+              I-Account ID       0.00      0.00      0.00         5
+          I-Account Number       0.35      0.59      0.44        37
+                 I-Address       0.78      0.89      0.83       491
+                     I-Age       0.00      0.00      0.00         2
+                  I-Amount       0.00      0.00      0.00        11
+             I-Animal Type       0.00      0.00      0.00         3
+             I-Association       0.00      0.00      0.00         2
+                 I-Balance       0.00      0.00      0.00         6
+            I-Bank Account       0.00      0.00      0.00        15
+               I-Bank Code       0.00      0.00      0.00         5
+         I-Bank Identifier       0.00      0.00      0.00         5
+              I-Birth Date       0.00      0.00      0.00        10
+             I-Birth Place       0.00      0.00      0.00         1
+                    I-City       0.00      0.00      0.00         2
+                    I-Club       0.00      0.00      0.00         4
+                 I-Company       0.92      0.15      0.26        78
+            I-Compensation       0.04      0.15      0.07        13
+               I-Condition       0.00      0.00      0.00         8
+            I-Contact Data       0.00      0.00      0.00        14
+     I-Contact Information       0.00      0.00      0.00        10
+            I-Contact Name       0.00      0.00      0.00         2
+           I-Contact Phone       0.00      0.00      0.00         7
+             I-Credit Card       0.00      0.00      0.00        11
+        I-Customer Profile       0.00      0.00      0.00        12
+                    I-Date       0.63      0.85      0.73       147
+              I-Date Range       0.00      0.00      0.00         4
+           I-Date of Birth       0.68      0.69      0.68        36
+                   I-Dates       0.00      0.00      0.00         6
+                  I-Degree       0.00      0.00      0.00         9
+                  I-Doctor       0.00      0.00      0.00         6
+         I-Document Number       0.00      0.00      0.00         7
+                I-Duration       0.00      0.00      0.00         4
+                   I-Email       0.81      0.99      0.89       338
+           I-Email Address       0.00      0.00      0.00        26
+        I-Employment Dates       0.00      0.00      0.00         5
+               I-Ethnicity       0.00      0.00      0.00         4
+      I-Family Information       0.00      0.00      0.00         8
+               I-Financial       0.00      0.00      0.00         4
+       I-Financial Account       0.00      0.00      0.00        72
+I-Financial Account Number       0.00      0.00      0.00         5
+        I-Financial Amount       0.00      0.00      0.00         8
+   I-Financial Information       0.00      0.00      0.00         5
+   I-Financial Transaction       0.00      0.00      0.00        17
+              I-Group Name       0.00      0.00      0.00         6
+                  I-Health       0.00      0.00      0.00         4
+        I-Health Condition       0.16      0.65      0.26        26
+             I-Health Data       0.00      0.00      0.00         9
+      I-Health Information       0.28      0.32      0.30        22
+           I-Health Status       0.00      0.00      0.00         6
+                      I-ID       0.76      0.94      0.84       461
+               I-ID Number       0.00      0.00      0.00         9
+              I-IP Address       0.00      0.00      0.00         6
+                  I-Income       0.52      0.78      0.62        32
+                  I-Injury       0.00      0.00      0.00        14
+             I-Institution       0.47      0.78      0.58        54
+  I-Institution Identifier       0.00      0.00      0.00         3
+                     I-Job       0.00      0.00      0.00         3
+               I-Job Title       1.00      0.25      0.40         8
+                I-Landmark       0.00      0.00      0.00         1
+                I-Location       0.45      0.43      0.44       195
+       I-Medical Condition       0.00      0.00      0.00        10
+     I-Medical Information       0.00      0.00      0.00        17
+       I-Medical Procedure       0.00      0.00      0.00         1
+                I-Merchant       0.00      0.00      0.00         2
+                    I-Name       0.76      0.91      0.83       284
+              I-Occupation       0.00      0.00      0.00         4
+            I-Organization       0.21      0.54      0.31        54
+       I-Organization Name       0.00      0.00      0.00        24
+   I-Organization/Location       0.00      0.00      0.00         5
+     I-Organizational Unit       0.00      0.00      0.00         1
+          I-Payment Method       0.00      0.00      0.00         7
+                  I-Person       0.00      0.00      0.00         1
+             I-Person Name       0.00      0.00      0.00         2
+                I-Pharmacy       0.00      0.00      0.00         1
+                   I-Phone       0.76      0.90      0.83       241
+            I-Phone Number       0.39      0.47      0.43        75
+                  I-Policy       0.00      0.00      0.00         4
+                I-Position       0.00      0.00      0.00         7
+                    I-Role       0.00      0.00      0.00        14
+                  I-Salary       0.00      0.00      0.00        46
+                   I-Skill       0.00      0.00      0.00         1
+             I-SocialMedia       0.00      0.00      0.00         4
+                  I-Tax ID       0.00      0.00      0.00         6
+                    I-Time       0.00      0.00      0.00         5
+             I-Time Period       0.00      0.00      0.00         1
+                   I-Topic       0.00      0.00      0.00         1
+               I-Treatment       0.00      0.00      0.00         1
+                    I-Type       0.00      0.00      0.00         2
+              I-University       0.67      0.38      0.48        16
+                I-Username       0.00      0.00      0.00         8
+                 I-Website       0.00      0.00      0.00         5
+                    I-Year       0.00      0.00      0.00         1
+                         O       0.97      0.99      0.98     23010
+
+                  accuracy                           0.92     27512
+                 macro avg       0.10      0.10      0.09     27512
+              weighted avg       0.89      0.92      0.90     27512
+
+--------------------------------------------
+
+--- Comparative Generation Metrics ---
+Exact Match Ratio: 0.0000
+
+--- Anonymization Detection ---
+Accuracy: 0.9702
+Precision: 0.9761
+Recall: 0.9668
+F1-Score: 0.9714
+
+--- PII Identifier Detection (from reconstructed JSON) ---
+Accuracy: 0.4721
+Precision: 0.7532
+Recall: 0.5585
+F1-Score: 0.6414
+
+--- Text Generation Metrics (on 'anonymized' field) ---
+Average ROUGE-1: 0.7999
+Average ROUGE-2: 0.7049
+Average ROUGE-L: 0.7982
+Average BLEU Score: 0.3797
+------------------------------------

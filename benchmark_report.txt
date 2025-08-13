@@ -1,0 +1,7 @@
+--- Benchmark Report ---
+Model                                         | Peak GPU Mem (MB)    | RAM Usage (MB)       | Avg Inference (ms)  
+--------------------------------------------------------------------------------------------------------------
+./fine-tuned-model                            | 2644.69                | 195.41                | 835.21
+./fine-tuned-model-token-classification       | 259.19                | 5.61                | 1.39
+./fine-tuned-model-phi3                       | 7445.01                | 58.21                | 1968.79
+------------------------

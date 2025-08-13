@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+trl
+scipy
+einops
+scikit-learn
+rouge_score nltk
